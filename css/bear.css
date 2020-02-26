@@ -10,6 +10,8 @@ html {
 
 /* Write your solution here */
 @media only screen and (max-width: 1196px) {
-  position: absolute;
-  margin-left: 800px;
+  #bear {
+    position: absolute;
+    left: 800px;
+  }
 }
