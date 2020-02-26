@@ -20,7 +20,7 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 20000px) {
+@media only screen and (max-width: 1300px) {
   #dolphin {
     position: absolute;
     top: 400px;
