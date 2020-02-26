@@ -23,7 +23,7 @@ html {
 @media only screen and (max-width: 1300px) {
   #dolphin {
     position: absolute;
-    top: 1.1em;
+    top: 300pxem;
     right: 0;
   }
 }
